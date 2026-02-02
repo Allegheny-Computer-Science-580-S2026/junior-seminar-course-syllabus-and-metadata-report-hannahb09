@@ -34,7 +34,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-course-syllabus-and-metadata-report-hannahb09)
 
 ### GitHub Repository for Research Prototype
 
