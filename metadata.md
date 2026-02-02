@@ -38,7 +38,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/hannahb09/GLAI)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/hannahb09/gatorgrade#configuring-gatorgrader-checks)
 
 ### GitHub Repository for Research Data
 
