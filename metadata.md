@@ -71,6 +71,11 @@ negatives
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/9)]
 
+- **Researcher Keven / Suzanne**: Keven is making an add on for blender to help be able to use blender.
+- **Feedback Provided**: I reviewed chapter 2.
+- **Impact**:
+- **Reference**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/9)]
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
