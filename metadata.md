@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Hannah Brown`
 
 ## Reading Syllabus Pledge
 
@@ -12,7 +12,7 @@ A research group member should add an X-mark to the box to indicate that they
 have carefully read and understood the Junior Seminar Research Project Syllabus
 and that they are ready to complete their Junior Seminar Research Project.
 
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [X] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
@@ -21,28 +21,28 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: `hannahb09`
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-course-syllabus-and-metadata-report-hannahb09)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/hannahb09/GLAI)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/hannahb09/GLAI-Research.git)
 
 ## Research Project Title
 
@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Add the Title of Your Junior Seminar Research Project
+AI pluggin to categorize and classify difficulty of 'X' using gatorgrade
 ```
 
 ## Research Group Contributions
@@ -65,11 +65,16 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
+- **Researcher Bennedict / Pytifex**: Bennedict is trying to look at static type checkers and trying to reduce to false
+negatives
+- **Feedback Provided**: Made it clear that there needs to be more about the ethical issues if there are any. Also pointing out formating issues.
 - **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Reference**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/9)]
+
+- **Researcher Keven / Suzanne**: Keven is making an add on for blender to help be able to use blender.
+- **Feedback Provided**: I reviewed chapter 2.
+- **Impact**:
+- **Reference**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/9)]
 
 Example entries:
 
