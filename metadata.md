@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-AI pluggin to categorize and classify difficulty of issues using gatorgrade
+AI pluggin to categorize and classify difficulty of 'X' using gatorgrade
 ```
 
 ## Research Group Contributions
