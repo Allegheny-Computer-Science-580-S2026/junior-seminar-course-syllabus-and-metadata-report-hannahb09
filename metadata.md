@@ -38,7 +38,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/hannahb09/GLAI)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/hannahb09/GameyAI)
 
 ### GitHub Repository for Research Data
 
@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-AI pluggin to categorize and classify difficulty of 'X' using gatorgrade
+GameyAI: A tool to help you see how similar your game idea is.
 ```
 
 ## Research Group Contributions
