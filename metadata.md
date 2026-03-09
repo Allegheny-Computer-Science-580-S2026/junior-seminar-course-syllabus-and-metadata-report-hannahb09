@@ -42,7 +42,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/hannahb09/GLAI-Research.git)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/hannahb09/GameyAI-Research)
 
 ## Research Project Title
 
