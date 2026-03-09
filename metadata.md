@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-GameyAI: A tool to help you see how similar your game idea is.
+GameyAI: A tool to help you see how similar your video game idea is to prexhisting video games.
 ```
 
 ## Research Group Contributions
