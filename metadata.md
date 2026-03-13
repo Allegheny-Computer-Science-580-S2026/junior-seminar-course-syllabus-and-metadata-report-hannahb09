@@ -76,6 +76,16 @@ negatives
 - **Impact**:
 - **Reference**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/9)]
 
+- **Researcher Vivian / Maipan**: Vivian is making a tool that helps people with speeches issues to help them be able to communicate.
+- **Feedback Provided**: I reviewed chapter 1 and suggested about expanding more on the motivation and contributions.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-vivianpotts/issues/4)
+
+- **Researcher Bennedict / Pytifex**: Bennedict is trying to look at static type checkers and trying to reduce to false
+- **Feedback Provided**: I reviewed chapter 1 and said that ethics still needs to be added and that there was an issue of words being cut of when displaying the pdf.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/12)
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
