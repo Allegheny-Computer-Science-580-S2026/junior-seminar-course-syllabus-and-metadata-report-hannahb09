@@ -86,6 +86,13 @@ negatives
 - **Impact**:
 - **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/12)
 
+- **Researcher Autum / Uppehälle Planner**: Autum is building a tool called Uppehälle Planner is a tool to help people with dietary restrictions and allergies to be able to plan safe to eat meals. 
+- **Feedback Provided**: I review the related works section. I read over what Autum put for sources that are related to their tool that helps back up the tool with evidences and related important research.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Aufumn/issues/4)
+
+
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
