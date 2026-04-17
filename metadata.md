@@ -91,6 +91,13 @@ negatives
 - **Impact**:
 - **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Aufumn/issues/4)
 
+- **Researcher Issei**: Failure detection and replication trade-offs in distributed key-value.
+Stores 
+- **Feedback Provided**: I review the related works section. I read over what Issei put for sources that are related to their tool that helps back up the tool with evidences and related important research.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-IsseiHasegawa/issues/7)
+
+
 
 
 Example entries:
