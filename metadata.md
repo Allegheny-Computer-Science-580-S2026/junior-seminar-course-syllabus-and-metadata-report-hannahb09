@@ -34,7 +34,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-course-syllabus-and-metadata-report-hannahb09)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-hannahb09)
 
 ### GitHub Repository for Research Prototype
 
@@ -93,7 +93,7 @@ negatives
 
 - **Researcher Issei**: Failure detection and replication trade-offs in distributed key-value.
 Stores 
-- **Feedback Provided**: I review the related works section. I read over what Issei put for sources that are related to their tool that helps back up the tool with evidences and related important research.
+- **Feedback Provided**: I review the related works section. I read over what Issei put for sources that are related to their work that helps back it up with evidences and related important research.
 - **Impact**:
 - **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-IsseiHasegawa/issues/7)
 
