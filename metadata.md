@@ -97,6 +97,11 @@ Stores
 - **Impact**:
 - **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-IsseiHasegawa/issues/7)
 
+- **Researcher Samuel / Alluder**: Samuel is building Alluder is a tool for theater to analyze literatures to help give user important information needed.
+- **Feedback Provided**: I review the experiments section. I told him how good his work was but also certain sections that need to have improvements to feel stronger.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Sroque27/issues/9)
+
 
 
 
