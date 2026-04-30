@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Hannah Brown`
 
 ## Reading Syllabus Pledge
 
@@ -12,7 +12,7 @@ A research group member should add an X-mark to the box to indicate that they
 have carefully read and understood the Junior Seminar Research Project Syllabus
 and that they are ready to complete their Junior Seminar Research Project.
 
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [X] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
@@ -21,28 +21,28 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: `hannahb09`
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-hannahb09)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/hannahb09/GameyAI)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/hannahb09/GameyAI-Research)
 
 ## Research Project Title
 
@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Add the Title of Your Junior Seminar Research Project
+GameyAI: A tool to help you see how similar your video game idea is to prexhisting video games.
 ```
 
 ## Research Group Contributions
@@ -65,11 +65,45 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
+- **Researcher Bennedict / Pytifex**: Bennedict is trying to look at static type checkers and trying to reduce to false
+negatives
+- **Feedback Provided**: Made it clear that there needs to be more about the ethical issues if there are any. Also pointing out formating issues.
 - **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Reference**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/9)]
+
+- **Researcher Keven / Suzanne**: Keven is making an add on for blender to help be able to use blender.
+- **Feedback Provided**: I reviewed chapter 2.
+- **Impact**:
+- **Reference**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/9)]
+
+- **Researcher Vivian / Maipan**: Vivian is making a tool that helps people with speeches issues to help them be able to communicate.
+- **Feedback Provided**: I reviewed chapter 1 and suggested about expanding more on the motivation and contributions.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-vivianpotts/issues/4)
+
+- **Researcher Bennedict / Pytifex**: Bennedict is trying to look at static type checkers and trying to reduce to false
+- **Feedback Provided**: I reviewed chapter 1 and said that ethics still needs to be added and that there was an issue of words being cut of when displaying the pdf.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/12)
+
+- **Researcher Autum / Uppehälle Planner**: Autum is building a tool called Uppehälle Planner is a tool to help people with dietary restrictions and allergies to be able to plan safe to eat meals. 
+- **Feedback Provided**: I review the related works section. I read over what Autum put for sources that are related to their tool that helps back up the tool with evidences and related important research.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Aufumn/issues/4)
+
+- **Researcher Issei**: Failure detection and replication trade-offs in distributed key-value.
+Stores 
+- **Feedback Provided**: I review the related works section. I read over what Issei put for sources that are related to their work that helps back it up with evidences and related important research.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-IsseiHasegawa/issues/7)
+
+- **Researcher Samuel / Alluder**: Samuel is building Alluder is a tool for theater to analyze literatures to help give user important information needed.
+- **Feedback Provided**: I review the experiments section. I told him how good his work was but also certain sections that need to have improvements to feel stronger.
+- **Impact**:
+- **Referance**: [Provide a link to a GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Sroque27/issues/9)
+
+
+
 
 Example entries:
 
